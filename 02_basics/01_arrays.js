@@ -8,8 +8,8 @@ console.log("Original Array :",myArr);
 //Slice:
 const myArr1 = myArr.slice(1,3)
 console.log(myArr1);
-console.log("Original Array :",myArr);
+console.log("Modified Array :",myArr);
 //Splice:
 const myArr2 = myArr.splice(1,3)
 console.log(myArr2);
-console.log("Original Array :",myArr);
+console.log("Modified Array :",myArr);
