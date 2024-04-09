@@ -13,3 +13,5 @@ console.log("Modified Array :",myArr);
 const myArr2 = myArr.splice(1,3)
 console.log(myArr2);
 console.log("Modified Array :",myArr);
+
+//Array Methods
